@@ -1,0 +1,6 @@
+{
+  "require": {
+    "docusign/esign-client": "^6.2.0-rc",
+    "vlucas/phpdotenv": "^5.2.0"
+  }
+}
